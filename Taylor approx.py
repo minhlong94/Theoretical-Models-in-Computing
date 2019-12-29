@@ -2,13 +2,6 @@ from sympy import symbols
 from math import exp, factorial
 
 
-# def factorial(n):
-#     if n <= 0:
-#         return 1
-#     else:
-#         return n*factorial(n-1)
-
-
 def taylor(function, x0, n):
     i = 0
     p = 0
