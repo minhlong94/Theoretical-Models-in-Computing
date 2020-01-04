@@ -1,11 +1,10 @@
-# Theoretical-Models-in-Computing
-A place to store codes for HCMIU Theoretical Models in Computing labs
+# Theoretical Models in Computing (Numerical Methods)
+A place to store code for HCMIU Theoretical Models in Computing labs (aka Numerical Methods)
 
 As far as I remember it goes like this:<br>
-Lab 1: TMC Lab1, Approx Through Iter Cos(0.3pi), Taylor approx <br>
-Lab 2: Bisection and Falsi, Newton-Raphson method<br>
-Lab 3: Gauss-Siedel and Jacobi methods<br>
-Lab 4: Newton's Algorithm, Steepnest Descent Method<br>
-Lab 5: Golden-Section search, Random Search, (Bonus from Ms. Nga): HyperOptimization<br>
-Lab 6: Newton's Interpol Poly<br>
-Lab 7 and 8: We have not done it.<br>
+Lab 1: Errors and Taylor Series <br>
+Lab 2: Nonlinear Equations <br>
+Lab 3: Linear Equations <br>
+Lab 4: Optimization and HyperOpt <br>
+lab 5: Regression <br>
+
